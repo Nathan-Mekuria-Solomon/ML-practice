@@ -1,2 +1,2 @@
-# ML-Projects
-Machine learning projects and research on AI applications
+# ML-Practice
+Here are the codes where I practice the fundamental concepts of machine learning including preprocessing, model training, hyperparameter twicking and etc...
